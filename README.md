@@ -2,7 +2,12 @@
 
 O Ally Hub - Trips é uma aplicação front end para case de processo seletivo.
 
-images
+![Screenshot_2](https://user-images.githubusercontent.com/93271677/198491417-5cc8155c-c8d9-401a-9399-95f0aab0fcb0.png)
+![Screenshot_3](https://user-images.githubusercontent.com/93271677/198491438-40e393c5-2368-4b5f-9e97-fa025d5560d4.png)
+![Screenshot_4](https://user-images.githubusercontent.com/93271677/198491444-9660f626-fed7-4661-8083-451c0cd42c18.png)
+![Screenshot_5](https://user-images.githubusercontent.com/93271677/198491449-e25a2eb5-184e-4334-8e02-50a4b16d1d6c.png)
+![Screenshot_7](https://user-images.githubusercontent.com/93271677/198491454-14a747df-56d5-4473-ad9f-727e7ea9c793.png)
+
 
 ## 🚀 Descrição do Projeto
 
@@ -12,6 +17,7 @@ visitar, ao preencher o formulário, o cadastro de seu interesse nos locais est�
 ## 📋 Funcionalidades
 
 API: https://amazon-api.sellead.com </br>
+DEPLOY: unarmed-unit.surge.sh </br>
 FIGMA: https://www.figma.com/file/eUEDVnpasd1NsWlMTwsurv/AllyHub---Cadastro-Viagens?node-id=0%3A1 </br>
 TRELLO: https://trello.com/invite/b/IhRq1tUj/ATTI5eb7f1fda2f12caf179b64a7b270bf80C74E7600/ally-hub
 
